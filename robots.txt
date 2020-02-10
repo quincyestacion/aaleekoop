@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://satiapoir.vojislav.net/sitemap.xml
